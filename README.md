@@ -75,3 +75,18 @@ resolve-php/
 ├── editar.php
 ├── excluir.php
 └── index.php
+
+
+## Demonstração do sistema
+
+### Dashboard
+![Dashboard do RESOLVE.](screenshots/dashboard.png)
+
+### Chamados abertos
+![Chamados abertos](screenshots/chamados_abertos.png)
+
+### Filtros de chamados
+![Chamados filtrados](screenshots/chamados_filtrados.png)
+
+### Novo chamado
+![Cadastro de chamado](screenshots/novo_chamado.png)
